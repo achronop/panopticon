@@ -1,0 +1,12 @@
+# Node
+pids
+logs
+results
+build
+node_modules
+
+# OS/Editors
+*~
+.DS_Store
+*.swp
+.nide
